@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AmauryMedeiros
-- 👀 I’m interested in Agile Methodology
+- 👀 I’m interested in Agile Methodology , Big Data and Data Engineering
 - 🌱 I’m currently learning PHP and Phyton
 - 💞️ I’m looking to collaborate on complex projects
 - 📫 How to reach me send a e-mail

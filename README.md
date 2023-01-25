@@ -2,7 +2,7 @@
 - 👀 I’m interested in Agile Methodology , Big Data and Data Engineering
 - 🌱 I’m currently learning PHP and Phyton
 - 💞️ I’m looking to collaborate on complex projects
-- 📫 How to reach me send a e-mail
+- 📫 How to reach me?  send me e-mail, that I promply answer
 
 <!---
 AmauryMedeiros1962/AmauryMedeiros1962 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
